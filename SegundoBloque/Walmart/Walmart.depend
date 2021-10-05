@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633415662 source:c:\users\danny\documents\computo paralelo\walmart\main.cpp
+	<iostream>
+	<omp.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
