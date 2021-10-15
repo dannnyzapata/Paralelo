@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634285479 source:c:\users\danny\desktop\libros septimo\noveno\paralelo\relevo\relevos\main.cpp
+	<iostream>
+	<omp.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
